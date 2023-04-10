@@ -26,10 +26,16 @@
 If you want to change the config, open up [config.json](https://discord.gg/zM6ZN9UfRs) and locate it at the top. There you can configure the following:
 
 ```js
-  "prefix": "prefix",
-  "token": "put-token-here",
-  "owners": ["owners-bot"],
-  "footer": "🔞・NSFW",
+{
+	"token": "Put-Token-Here",
+	"developerGuild": "developerserverid",
+    	"developer": "Your-Id",
+	"invite": "Invite-Bot",
+	"support": "https://discord.gg/novaworld",
+	"openai": {
+		"key": "OPENAI CLE"
+	}
+}
 ```
 
 ---
