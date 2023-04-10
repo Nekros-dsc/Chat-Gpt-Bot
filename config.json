@@ -1,0 +1,10 @@
+{
+	"token": "Put-Token-Here",
+	"developerGuild": "developerserverid",
+    	"developer": "Your-Id",
+	"invite": "Invite-Bot",
+	"support": "https://discord.gg/novaworld",
+	"openai": {
+		"key": "OPENAI CLE"
+	}
+}
